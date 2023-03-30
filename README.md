@@ -1,4 +1,5 @@
 # **K9-Software** ![K9-Software](https://github.com/K9-Software/K9-Software-LLC-Handbook-Documentation/blob/main/image1.png?raw=true)
+
 # Code Samples
 
 **[Start /i /b]**  This sample can be used to run two things at the same time in one window.
@@ -12,6 +13,7 @@
 # Copyright
 
 ©K9-Software All Content is reserved as the property of Mora and  K9-Software
+
 ###Where do you want to go?
 ######  [Mavric](https://k9-software.github.io/Mavric-Antimalware-Protection)
 ###### [Docs](https://k9-software.github.io/K9-Software-LLC-Handbook-Documentation)
