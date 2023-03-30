@@ -4,8 +4,6 @@
 
 **[Start /i /b]**  This sample can be used to run two things at the same time in one window.
 
-**[for /f "tokens=2* delims=\" %%a in ('WHOAMI /USER /GROUPS ^| findstr /c:"MicrosoftAccount" /c:"User"') do for /f "tokens=1*" %%a in ("%%a") do set Email=%%a]**  This sample can be used to get a user's email.
-
 **[powershell -WindowStyle "hidden"]**  This sample can be used to hide the window.
 
 **[powershell -ExecutionPolicy Bypass -Command Start-Process -FilePath """%file%""" -verb RunAs]**  This sample can be used to run %file% as admin.
