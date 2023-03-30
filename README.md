@@ -3,15 +3,10 @@
 # Code Samples
 
 > **[Start /i /b]**
-
 > ^This sample can be used to run two things at the same time in one window.
-
 > **[powershell -WindowStyle "hidden"]**
-
 > ^This sample can be used to hide the window.
-
 > **[powershell -ExecutionPolicy Bypass -Command Start-Process -FilePath """%file%""" -verb RunAs]**
-
 > ^This sample can be used to run %file% as admin.
 
 # Copyright
